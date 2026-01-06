@@ -46,4 +46,5 @@ Powered by **Google’s Gemini API** and built using modern web technologies, Hi
 ---
 
 ## 🏗️ Architecture Overview
+<img width="1359" height="455" alt="image" src="https://github.com/user-attachments/assets/e11e3da4-4366-40c6-8684-cc9e48239f43" />
 
