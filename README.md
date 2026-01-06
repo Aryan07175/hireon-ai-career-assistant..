@@ -52,6 +52,15 @@ Powered by **Google’s Gemini API** and built using modern web technologies, Hi
 
 
 <img width="1106" height="634" alt="image" src="https://github.com/user-attachments/assets/a63ef100-c859-4cd6-a8bd-33d54e3d86a9" />
+ Client (Next.js)
+     ↓
+API Routes (Server Actions / REST)
+     ↓
+Prisma ORM
+     ↓
+Neon PostgreSQL
+     ↓
+Gemini API (AI)
 
 
 
