@@ -54,6 +54,7 @@ Powered by **Google’s Gemini API** and built using modern web technologies, Hi
 <img width="1106" height="634" alt="image" src="https://github.com/user-attachments/assets/a63ef100-c859-4cd6-a8bd-33d54e3d86a9" />
  Client (Next.js)
      ↓
+     
 API Routes (Server Actions / REST)
      ↓
 Prisma ORM
@@ -63,4 +64,15 @@ Neon PostgreSQL
 Gemini API (AI)
 
 
+DATABASE_URL=
+
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
+CLERK_SECRET_KEY=
+
+NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
+NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
+NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=/onboarding
+NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/onboarding
+
+GEMINI_API_KEY=
 
