@@ -27,9 +27,7 @@ Powered by **Google’s Gemini API** and built using modern web technologies, Hi
 - 📬 **Weekly Industry Insights**
   - Automated background updates on in-demand skills, job trends, and salary insights.
 
-- 📝 **Markdown Editor + PDF Export**
-  - Clean editor experience for resumes and letters.
-  - One-click PDF export support.
+  
 
 
 
