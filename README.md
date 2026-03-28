@@ -24,7 +24,7 @@ Powered by **Google’s Gemini API** and built using modern web technologies, Hi
   - Visualize interview scores and track progress over time.
   - Identify strengths and improvement areas.
 
-- 📬 **Weekly Industry Insights**
+  
   
 
   
